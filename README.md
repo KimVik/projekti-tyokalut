@@ -1,6 +1,7 @@
-# projekti-tyokalut
+# Projekti-tyokalut 💪
+
 ### - **Ohjelmistokehittämisen työkalut loppuprojekti** 🔧 
--  [Projekti](index.md)
+  - [Projekti](index.md)
 ### - soon
 ### - soon
 ### - soon
